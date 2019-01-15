@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/anim/abc_slide_in_top.xml"
+    }
+]

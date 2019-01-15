@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:5:5-44:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/nivedharajaram/.android/build-cache/dfd7c48953b517d8c2369f2a580ee9c61525445c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/nivedharajaram/.android/build-cache/5bd47a71583d973f3e11b4a2e92a6d7767301cfc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/02125b1b6081c3b15f63b16e15f48f046f21ec30/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/nivedharajaram/.android/build-cache/4205a1203c3c21b92fd6e101362b3ac0eb6803be/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/nivedharajaram/.android/build-cache/191d0f68b6c9efb71c0ab16b2b1001a5e40e6d69/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/0fa8d16f29997afdf061e4d8fa5be7c7273052e0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/9a10e95bfe0bbb993cc6ad99b0c7e913449357b5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/a1e7bd55077db876c22994b258dc10db690200c1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nivedharajaram/.android/build-cache/bb3234133d14c6ffea68859f9f3900f34bd51e84/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:11:9-40
+receiver#com.hcl.smartwomenapp.CallReceiver
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:15:25-73
+activity#com.hcl.smartwomenapp.MainActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.hcl.smartwomenapp.RegisterActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:24:9-25:61
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.hcl.smartwomenapp.MeetingActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:27:9-28:60
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:27:19-50
+activity#com.hcl.smartwomenapp.ChooseActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:30:9-31:56
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:30:19-49
+activity#com.hcl.smartwomenapp.HealthActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:33:9-34:56
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:33:19-49
+activity#com.hcl.smartwomenapp.InitActivity
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:label
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:36:13-42
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:35:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:40:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:45:5-67
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:45:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:46:5-78
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:46:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:48:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:52:5-69
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:52:22-66
+uses-permission#android.permission.PROCESS_INCOMING_CALLS
+ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:53:5-81
+	android:name
+		ADDED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml:53:22-78
+uses-sdk
+INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/nivedharajaram/.android/build-cache/dfd7c48953b517d8c2369f2a580ee9c61525445c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/nivedharajaram/.android/build-cache/5bd47a71583d973f3e11b4a2e92a6d7767301cfc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/02125b1b6081c3b15f63b16e15f48f046f21ec30/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/nivedharajaram/.android/build-cache/4205a1203c3c21b92fd6e101362b3ac0eb6803be/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/nivedharajaram/.android/build-cache/191d0f68b6c9efb71c0ab16b2b1001a5e40e6d69/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/0fa8d16f29997afdf061e4d8fa5be7c7273052e0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/9a10e95bfe0bbb993cc6ad99b0c7e913449357b5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/a1e7bd55077db876c22994b258dc10db690200c1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nivedharajaram/.android/build-cache/bb3234133d14c6ffea68859f9f3900f34bd51e84/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/nivedharajaram/.android/build-cache/dfd7c48953b517d8c2369f2a580ee9c61525445c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/nivedharajaram/.android/build-cache/5bd47a71583d973f3e11b4a2e92a6d7767301cfc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/02125b1b6081c3b15f63b16e15f48f046f21ec30/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/nivedharajaram/.android/build-cache/4205a1203c3c21b92fd6e101362b3ac0eb6803be/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/nivedharajaram/.android/build-cache/191d0f68b6c9efb71c0ab16b2b1001a5e40e6d69/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/0fa8d16f29997afdf061e4d8fa5be7c7273052e0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/nivedharajaram/.android/build-cache/9a10e95bfe0bbb993cc6ad99b0c7e913449357b5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/nivedharajaram/.android/build-cache/a1e7bd55077db876c22994b258dc10db690200c1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/AndroidManifest.xml:26:9-47

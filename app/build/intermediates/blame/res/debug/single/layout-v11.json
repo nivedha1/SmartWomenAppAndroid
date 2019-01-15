@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

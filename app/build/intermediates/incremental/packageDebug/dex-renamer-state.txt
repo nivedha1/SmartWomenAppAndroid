@@ -1,0 +1,7 @@
+#Fri Mar 31 20:03:52 IST 2017
+base.0=/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bd53652ae504c810dd533cb085b9fc0c30ac581c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34665b89518f35c52ea78a6c835e5c293e7bc011/classes.dex
+base.1=/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34665b89518f35c52ea78a6c835e5c293e7bc011
+file.0=/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bd53652ae504c810dd533cb085b9fc0c30ac581c/classes.dex

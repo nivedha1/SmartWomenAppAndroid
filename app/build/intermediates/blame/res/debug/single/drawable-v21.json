@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/nivedharajaram/AndroidStudioProjects/SmartWomenApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nivedharajaram/.android/build-cache/3ae29927302040c8318718d2aaaf900d5768dac6/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
