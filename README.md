@@ -7,7 +7,7 @@ SmartWomen app uses
 1.NodeJS - for scripting 
 2.MongoDb - for storing data
 
-The code for backend is available in ​https://github.com/nivedha1/smartwomen.git 
+The code for backend is available in ​https://github.com/nivedha1/SmartWomenBackendNode.git
 
 ### Following are the commands to run backend for SmartWomenApp
 
