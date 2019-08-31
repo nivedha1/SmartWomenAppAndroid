@@ -30,3 +30,5 @@ git push heroku master
 Notes: (Please not this Heroku url.It must be replaced in MeetingActivity.xml, MainActivity.xml,RegisterActivity.xml,HealthActivity.xml) in one spot respectively)
 
 If you want to use different instance please change the username , password and servername in index.js file in backend code.
+
+Author - Nivedha Rajaram
