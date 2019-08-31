@@ -20,7 +20,7 @@ Steps to start backend code
 ````
 
 git init
-git clone ​https://github.com/nivedha1/smartwomen.git 
+git clone ​https://github.com/nivedha1/SmartWomenBackendNode.git 
 git pull
 heroku create
 git push heroku master
